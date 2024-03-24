@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918148891023-f179niavfgol707k0bbe4puj0uqj3h28.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918148891023-f179niavfgol707k0bbe4puj0uqj3h28</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>918148891023-9tebgju5fo7pqd9qv0j0rb8pv8mb5233.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeN-ydywEYdLb1bqngt1OaPwC6YzU0KAU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918148891023</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.photohub.photoHub</string>
+	<key>PROJECT_ID</key>
+	<string>sample-project-a80be</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sample-project-a80be.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918148891023:ios:7ba7e435aa342205a28bfa</string>
+</dict>
+</plist>
